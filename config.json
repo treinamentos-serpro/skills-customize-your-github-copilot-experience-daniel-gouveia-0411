@@ -71,6 +71,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "FastAPI e Persistência com SQLite",
+      "description": "Persistência de dados em uma API FastAPI usando SQLAlchemy e SQLite.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
