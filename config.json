@@ -58,6 +58,19 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build and test a REST API with FastAPI, Pydantic validation, and CRUD endpoints.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
